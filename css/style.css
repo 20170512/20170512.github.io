@@ -5,7 +5,9 @@ html {
   font-size: 14px;
 }
 body {
-  background-color: #f7f7f7;
+  background: #f7f7f7 url("../images/bilibili.jpg") no-repeat;
+  letter-spacing: 2px;
+  text-indent: 2px;
 }
 body,
 button,
