@@ -5,8 +5,7 @@ html {
   font-size: 14px;
 }
 body {
-  background: #f7f7f7 url("../images/bilibili.jpg") cover no-repeat;
-  background-size: 100% 100%;
+  background: #f7f7f7 url("../images/bilibili.jpg") cover repeat-y;
   letter-spacing: 2px;
   text-indent: 2px;
 }
